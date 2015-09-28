@@ -10,8 +10,6 @@ import random
 
 #This is a ball object
 class OneBall:
-    dt = 0.1
-    t = 0
     rad = 0
     colr = (0, 0, 0)
 
